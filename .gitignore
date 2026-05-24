@@ -1,0 +1,13 @@
+# Compiled binary
+cardiac_sim
+
+# Snapshot binaries (large, regenerable)
+results/*.bin
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
